@@ -4,8 +4,8 @@
   const style = document.createElement('style');
   style.textContent = `
     .simple-audio-button {
-      width: 60px;
-      height: 60px;
+      width: 30px;
+      height: 30px;
       border-radius: 50%;
       background: linear-gradient(to bottom, #ff5500, #ff2200);
       border: 1px solid #cc4400;
