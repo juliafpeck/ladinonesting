@@ -10,11 +10,11 @@
       background: linear-gradient(to bottom, #ff5500, #ff2200);
       border: 1px solid #cc4400;
       display: flex;
-      justify-content: left;
+      justify-content: center;
       align-items: center;
       cursor: pointer;
       box-shadow: 0 2px 5px rgba(0,0,0,0.2);
-      margin: 10px auto;
+      margin: 10px 0;
     }
     .simple-audio-button svg {
       width: 30px;
