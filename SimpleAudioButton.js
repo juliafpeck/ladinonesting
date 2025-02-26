@@ -15,6 +15,8 @@
       cursor: pointer;
       box-shadow: 0 2px 5px rgba(0,0,0,0.2);
       margin: 10px 0;
+     overflow: hidden;
+  position: static;
     }
     .simple-audio-button svg {
       width: 30px;
