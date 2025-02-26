@@ -7,8 +7,8 @@
       width: 30px;
       height: 30px;
       border-radius: 50%;
-      background: linear-gradient(to bottom, #ff5500, #ff2200);
-      border: 1px solid #cc4400;
+      linear-gradient(to bottom, #1275b9, #0e65a3);
+      border: 1px solid #094c7a;
       display: flex;
       justify-content: center;
       align-items: center;
