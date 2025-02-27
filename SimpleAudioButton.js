@@ -8,7 +8,7 @@
       height: 40px;
       border-radius: 50%;
       background: #0e65a3;
-      border: 1px solid #094c7a;
+      border: 1px solid #0e65a3;
       display: flex;
       justify-content: center;
       align-items: center;
