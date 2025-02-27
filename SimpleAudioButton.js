@@ -4,10 +4,10 @@
   const style = document.createElement('style');
   style.textContent = `
     .simple-audio-button {
-      width: 30px;
-      height: 30px;
+      width: 40px;
+      height: 40px;
       border-radius: 50%;
-      linear-gradient(to bottom, #1275b9, #0e65a3);
+      background: #0e65a3;
       border: 1px solid #094c7a;
       display: flex;
       justify-content: center;
